@@ -1,2 +1,3 @@
-# protocol.py
-A python package to easily connect to protocol API.
+protocollib
+
+connect to proxies through a python package.
